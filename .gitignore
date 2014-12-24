@@ -1,0 +1,4 @@
+#ignore custom user data
+RandomPossessions/RandomPossessions.xcodeproj/project.xcworkspace
+RandomPossessions/RandomPossessions.xcodeproj/xcuserdata
+
